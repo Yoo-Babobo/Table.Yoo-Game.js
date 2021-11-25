@@ -7,7 +7,7 @@
 
 /**
  * @class TableError
- * @classdesc Error constructor for plugin
+ * @classdesc Error constructor for plugin.
  */
 class TableError extends Error {
     constructor(message) {
